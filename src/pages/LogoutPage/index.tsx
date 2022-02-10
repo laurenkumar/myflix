@@ -7,7 +7,7 @@ const LogoutPage: React.FC = () => {
   const history = useHistory();
 
   useEffect(() => {
-    const redirectUrl = getRedirectUrl() || '/';
+    const redirectUrl = '/';
     history.push(redirectUrl);
   }, []);
 
