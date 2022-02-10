@@ -7,7 +7,7 @@
 - Available here https://myflix-sandy.vercel.app/
 
 # Video Demo
-- https://vimeo.com/675883094/ed7ec6888c
+- https://vimeo.com/675883094
 
 # Contact
 - Discord ID: dododream21#7208
