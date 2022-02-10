@@ -15,9 +15,9 @@ export default () => {
 
     scope: 'openid email wallet',
 
-    redirectUri: `https://myflix.vercel.app/callback`,
+    redirectUri: `https://myflix-sandy.vercel.app/callback`,
 
     // This is the url that the auth server will redirect back to after logging out.
-    postLogoutRedirectUri: `https://myflix.vercel.app/logout`,
+    postLogoutRedirectUri: `https://myflix-sandy.vercel.app/logout`,
   });
 };
