@@ -14,7 +14,7 @@ const CallbackPage: React.FC = () => {
       .loginCallback()
       .then(() => {
         const redirectUrl: string = getRedirectUrl() || '/browse';
-        history.push(redirectUrl);
+        history.push('browse');
       })
       .catch((error) => {
         history.push('/');
