@@ -1,5 +1,5 @@
 # Integrating “Login With Unstoppable” As A Dapp Login Option
-# DefiMarket
+# Myflix
 # Project name
 - Myflix
   
