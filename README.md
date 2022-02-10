@@ -1,10 +1,10 @@
 # Integrating “Login With Unstoppable” As A Dapp Login Option
-# DefiMarket
+# Myflix
 # Project name
-- DefiMarket
+- Myflix
   
 # DEMO
-- Available here https://defimarketplace2.vercel.app/
+- Available here https://myflix-sandy.vercel.app/
 
 # Video Demo
 - https://vimeo.com/657618691/c12d83553b
